@@ -8,9 +8,12 @@ A simple Node.js 'Hello World' App to get you started as a boilerplate for JavaS
 `git clone https://github.com/edwinaquino/Node.js-App-Starter.git`
 
 2. Install packages: 
+`cd Node.js-App-Starter`
+
+3. Install packages: 
 `npm install`
 
-3. Start the server: 
+4. Start the server: 
 `npm start`
 
 ## Usage
